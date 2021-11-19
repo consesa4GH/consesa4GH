@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @consesa4GH
+- 👋 Hi, I’m @consesa4GH.
 - 👀 I’m interested in learning computer science-cs50.
 - 🌱 I’m currently learning how to program using C.
 - 💞️ I’m looking to collaborate on activities approved by my cs 50 Professor.
-- 📫 How to reach me @consesa4GH
+- 📫 How to reach me: @consesa4GH.
 
 <!---
 consesa4GH/consesa4GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
